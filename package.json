@@ -3,17 +3,28 @@
   "version": "1.0.0",
   "description": "twitter bot bootstrap",
   "main": "index.js",
-   "devDependencies": {
+  "devDependencies": {
     "standard": "*"
   },
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Firoz Ansari",
   "license": "MIT",
   "dependencies": {
     "twit": "^2.2.5",
     "unique-random-array": "^1.0.0",
     "unirest": "^0.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firozansar/firozansar-twitter-bot.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "bugs": {
+    "url": "https://github.com/firozansar/firozansar-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/firozansar/firozansar-twitter-bot#readme"
 }
