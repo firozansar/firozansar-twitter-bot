@@ -3,7 +3,8 @@ module.exports = {
     ''
   ],
   queryStringSubQuery: [
-    ''
+    'android',
+    'google'
   ],
   blockedStrings: [
     'porn',
