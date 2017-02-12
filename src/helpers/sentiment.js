@@ -5,7 +5,7 @@ const unirest = require('unirest')
 */
 
 // Sentiment 3 Mashape API key
-var apiKey = 'QqtO3XbGhFmshEmKBxy58FqKLvG3p1rx61ijsnaHTstuRd3jp0'
+var apiKey = '2eYKThsuQmmshLYHTbm10Iz61arzp12TPmMjsnTmvHgRb94v6V'
 
 var sentiment = {}
 

@@ -4,7 +4,7 @@ module.exports = {
   ],
   queryStringSubQuery: [
     'android',
-    'google'
+    'topcashback'
   ],
   blockedStrings: [
     'porn',
