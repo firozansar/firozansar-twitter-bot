@@ -5,11 +5,13 @@ module.exports = {
   queryStringSubQuery: [
     'android',
     'topcashback',
-    'Top_CashBack'
+    'Top_CashBack',
+    'firozansar'
   ],
   blockedStrings: [
     'porn',
-    'sex'
+    'sex',
+    'bet'
   ],
   resultType: [
     'mixed',
