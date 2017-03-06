@@ -3,10 +3,12 @@ module.exports = {
     ''
   ],
   queryStringSubQuery: [
-    'android',
+    'androiddev',
     'topcashback',
     'Top_CashBack',
-    'firozansar'
+    'firozansar',
+    'developer',
+    'programming'
   ],
   blockedStrings: [
     'porn',
