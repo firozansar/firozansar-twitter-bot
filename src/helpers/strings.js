@@ -8,12 +8,17 @@ module.exports = {
     'Top_CashBack',
     'firozansar',
     'developer',
-    'programming'
+    'tech',
+    'innovation',
+    'technology',
+    'iosdev'
   ],
   blockedStrings: [
     'porn',
     'sex',
-    'bet'
+    'bet',
+    'binayajha'
+
   ],
   resultType: [
     'mixed',
