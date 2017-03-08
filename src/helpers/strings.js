@@ -4,12 +4,8 @@ module.exports = {
   ],
   queryStringSubQuery: [
     'androiddev',
-    'topcashback',
     'Top_CashBack',
-    'firozansar',
-    'developer',
     'tech',
-    'innovation',
     'technology',
     'iosdev'
   ],
@@ -17,8 +13,9 @@ module.exports = {
     'porn',
     'sex',
     'bet',
-    'binayajha'
-
+    'binayajha',
+    'fuck',
+    'sucks'
   ],
   resultType: [
     'mixed',
