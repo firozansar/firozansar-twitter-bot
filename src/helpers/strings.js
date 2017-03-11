@@ -19,7 +19,11 @@ module.exports = {
     'bet',
     'binayajha',
     'fuck',
-    'sucks'
+    'sucks',
+    'negro',
+    'trump',
+    'job',
+    'hell'
   ],
   resultType: [
     'mixed',
