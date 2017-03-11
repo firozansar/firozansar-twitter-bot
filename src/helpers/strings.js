@@ -7,7 +7,11 @@ module.exports = {
     'Top_CashBack',
     'tech',
     'technology',
-    'iosdev'
+    'iosdev',
+    'dotnet',
+    'csharp',
+    'java',
+    'swiftlang'
   ],
   blockedStrings: [
     'porn',
