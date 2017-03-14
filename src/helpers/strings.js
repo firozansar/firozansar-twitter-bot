@@ -22,7 +22,8 @@ module.exports = {
     'sucks',
     'negro',
     'trump',
-    'job',
+    'techjobs',
+    'technojobs',
     'hell'
   ],
   resultType: [
