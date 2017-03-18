@@ -21,9 +21,11 @@ module.exports = {
     'fuck',
     'sucks',
     'negro',
+    'bitch',
     'trump',
     'techjobs',
     'technojobs',
+    'jobs'
     'hell'
   ],
   resultType: [
@@ -39,6 +41,6 @@ module.exports = {
     'Hey @screenName, thanks for following!',
     'Awesome @screenName, thanks for following!',
     'Thanks for the follow @screenName!',
-    'Thanks for following @screenName! Have a nice day!'
+    'Thanks for following @screenName!'
   ]
 }
