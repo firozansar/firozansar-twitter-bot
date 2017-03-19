@@ -1,13 +1,12 @@
 module.exports = {
   queryString: [
-    ''
+    'androiddev',
+    'iosdev'
   ],
   queryStringSubQuery: [
-    'androiddev',
     'Top_CashBack',
     'tech',
-    'technology',
-    'iosdev',
+    'technology',    
     'dotnet',
     'csharp',
     'java',
