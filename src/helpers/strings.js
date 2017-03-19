@@ -1,12 +1,13 @@
 module.exports = {
   queryString: [
-    'androiddev',
-    'iosdev'
+    ''
   ],
   queryStringSubQuery: [
+    'androiddev',
     'Top_CashBack',
     'tech',
-    'technology',    
+    'technology',
+    'iosdev',
     'dotnet',
     'csharp',
     'java',
@@ -20,11 +21,8 @@ module.exports = {
     'fuck',
     'sucks',
     'negro',
-    'bitch',
     'trump',
-    'techjobs',
-    'technojobs',
-    'jobs'
+    'job',
     'hell'
   ],
   resultType: [
@@ -40,6 +38,6 @@ module.exports = {
     'Hey @screenName, thanks for following!',
     'Awesome @screenName, thanks for following!',
     'Thanks for the follow @screenName!',
-    'Thanks for following @screenName!'
+    'Thanks for following @screenName! Have a nice day!'
   ]
 }
