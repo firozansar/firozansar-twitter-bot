@@ -3,8 +3,7 @@
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/) 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://opensource.org/licenses/MIT)
 
-This is a bootstrap for setting up a Twitter bot with Node.js using the `twit` library, the bot favorites and retweets about Google and Android related stuff, it will also reply to followers with a selection of canned responses.
-
+This is an example of Twitter bot with Node.js using the `twit` library, the bot favorites and retweets about Google and Android related stuff, it will also reply to followers with a selection of canned responses.
 
 ## Contributing
 Please fork this repository and contribute back using pull requests.
